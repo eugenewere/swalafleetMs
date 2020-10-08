@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="fad157b2-3114-4ff5-ad29-a941bc65766d" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/fleetMS.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fleet_base/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/fleet_base/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fleet_base/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/fleet_base/views.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fleetms/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/fleetms/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fleetms/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/fleetms/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fleetms/wsgi.py" beforeDir="false" afterPath="$PROJECT_DIR$/fleetms/wsgi.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/owner/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/owner/models.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/owner/templates/owner/crewDetails.html" beforeDir="false" afterPath="$PROJECT_DIR$/owner/templates/owner/crewDetails.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/owner/templates/owner/editProfile.html" beforeDir="false" afterPath="$PROJECT_DIR$/owner/templates/owner/editProfile.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/owner/templates/owner/editVehicle.html" beforeDir="false" afterPath="$PROJECT_DIR$/owner/templates/owner/editVehicle.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/owner/templates/owner/profile.html" beforeDir="false" afterPath="$PROJECT_DIR$/owner/templates/owner/profile.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/owner/templates/owner/vehicle.html" beforeDir="false" afterPath="$PROJECT_DIR$/owner/templates/owner/vehicle.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sacco/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/sacco/models.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sacco/templates/sacco/all/editprofile.html" beforeDir="false" afterPath="$PROJECT_DIR$/sacco/templates/sacco/all/editprofile.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/supervisor/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/supervisor/models.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DjangoConsoleOptions" custom-start-script="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)">
+    <option name="myCustomStartScript" value="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1iaobNF1O5nsGjTPZvvKIdaZRUo" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="DatabaseDriversLRU" value="sqlite" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="database.console.LAST_STATE" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\T.J\Desktop\fleetMS\fleet_base" />
+      <recent name="C:\Users\T.J\Desktop\fleetMS\owner" />
+      <recent name="C:\Users\T.J\Desktop\fleetMS\sacco" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="fleetMS" type="Python.DjangoServer" factoryName="Django server">
+      <module name="fleetMS" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+        <env name="DJANGO_SETTINGS_MODULE" value="fleetms.settings" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="launchJavascriptDebuger" value="false" />
+      <option name="port" value="8000" />
+      <option name="host" value="" />
+      <option name="additionalOptions" value="" />
+      <option name="browserUrl" value="" />
+      <option name="runTestServer" value="false" />
+      <option name="runNoReload" value="false" />
+      <option name="useCustomRunCommand" value="false" />
+      <option name="customRunCommand" value="" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="fad157b2-3114-4ff5-ad29-a941bc65766d" name="Default Changelist" comment="" />
+      <created>1583225616954</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1583225616954</updated>
+      <workItem from="1583225619780" duration="4930000" />
+      <workItem from="1583231085392" duration="3212000" />
+      <workItem from="1584367899640" duration="1902000" />
+      <workItem from="1584788572590" duration="82000" />
+      <workItem from="1602155140416" duration="6555000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="463" y="154" key="FileChooserDialogImpl" timestamp="1602162201880">
+      <screen x="0" y="30" width="1366" height="738" />
+    </state>
+    <state x="463" y="154" key="FileChooserDialogImpl/0.30.1366.738@0.30.1366.738" timestamp="1602162201880" />
+    <state width="1325" height="198" key="GridCell.Tab.0.bottom" timestamp="1602173640951">
+      <screen x="0" y="30" width="1366" height="738" />
+    </state>
+    <state width="1325" height="198" key="GridCell.Tab.0.bottom/0.30.1366.738@0.30.1366.738" timestamp="1602173640951" />
+    <state width="1325" height="198" key="GridCell.Tab.0.center" timestamp="1602173640951">
+      <screen x="0" y="30" width="1366" height="738" />
+    </state>
+    <state width="1325" height="198" key="GridCell.Tab.0.center/0.30.1366.738@0.30.1366.738" timestamp="1602173640951" />
+    <state width="1325" height="198" key="GridCell.Tab.0.left" timestamp="1602173640950">
+      <screen x="0" y="30" width="1366" height="738" />
+    </state>
+    <state width="1325" height="198" key="GridCell.Tab.0.left/0.30.1366.738@0.30.1366.738" timestamp="1602173640950" />
+    <state width="1325" height="198" key="GridCell.Tab.0.right" timestamp="1602173640951">
+      <screen x="0" y="30" width="1366" height="738" />
+    </state>
+    <state width="1325" height="198" key="GridCell.Tab.0.right/0.30.1366.738@0.30.1366.738" timestamp="1602173640951" />
+    <state x="225" y="45" key="SettingsEditor" timestamp="1602162251904">
+      <screen x="0" y="30" width="1366" height="738" />
+    </state>
+    <state x="225" y="45" key="SettingsEditor/0.30.1366.738@0.30.1366.738" timestamp="1602162251904" />
+  </component>
+</project>
